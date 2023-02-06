@@ -17,7 +17,7 @@ HTTP_PROXY: false
 LINK:
 - link: https://www.fanyiming.life/link/
   theme: butterfly
-OUTDATE_CLEAN: 200
+OUTDATE_CLEAN: 100
 SETTINGS_FRIENDS_LINKS:
   enable: false
   json_api: ''
