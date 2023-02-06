@@ -35,11 +35,11 @@ SETTINGS_FRIENDS_LINKS:
   - - "\u962E\u4E00\u5CF0\u7684\u7F51\u7EDC\u65E5\u5FD7"
     - http://www.ruanyifeng.com/
     - https://www.ruanyifeng.com/blog/images/person_shot.jpg
-    - /blog/atom.xml
+    - blog/atom.xml
   - - "\u571F\u6728\u575B\u5B50"
     - https://feeds.feedburner.com/
     - https://cravatar.cn/avatar/a4368b0f22f9820265d7d2431addc8da?s=120&d=retro&r=g
-    - /tumutanzi
+    - tumutanzi
   - - "\u9022\u91D1\u5409"
     - https://jinjipang.com/
     - https://jinjipang.com/cn/post/2021-07-08/images/profile.jpg
@@ -47,4 +47,4 @@ SETTINGS_FRIENDS_LINKS:
   - - "\u98DF\u706F\u9B3C"
     - https://shidenggui.com/
     - https://avatars.githubusercontent.com/u/5035364?v=4
-    - /feeds
+    - feeds
